@@ -1,4 +1,4 @@
-# Neural Style Transfer
+# Sentiment Analysis
 This project focus on building a Sentiment Classifier using [IMDB_Dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) usig BERT and Tfidf encodings.
 
 ## Table of Contents
